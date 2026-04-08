@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/KoreaNirsa/GitOps.git
+    repoURL: https://github.com/s4ngg/GitOps.git
     targetRevision: master
     path: apps/demo
   destination:
