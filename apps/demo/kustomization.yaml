@@ -12,6 +12,12 @@ resources:
   - gitops-service.yaml
 
 images:
+<<<<<<< HEAD
   - name: docker.io/s4ngg/demo
     newName: docker.io/s4ngg/demo
     newTag: PLACEHOLDER
+=======
+  - name: docker.io/koreanirsa/demo
+    newName: docker.io/koreanirsa/demo
+    newTag: 51d537b
+>>>>>>> 72f25b853fb30fcf1f30fa63743d1015b1f44063
