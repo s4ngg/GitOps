@@ -12,7 +12,6 @@ resources:
   - gitops-service.yaml
 
 images:
-<<<<<<< HEAD
   - name: docker.io/s4ngg/demo
     newName: docker.io/s4ngg/demo
     newTag: ddf0fe6
