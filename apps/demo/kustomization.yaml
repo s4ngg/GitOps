@@ -16,8 +16,3 @@ images:
   - name: docker.io/s4ngg/demo
     newName: docker.io/s4ngg/demo
     newTag: ddf0fe6
-=======
-  - name: docker.io/koreanirsa/demo
-    newName: docker.io/koreanirsa/demo
-    newTag: ddf0fe6
->>>>>>> 72f25b853fb30fcf1f30fa63743d1015b1f44063
